@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 import gatt, struct
 
 manager = gatt.DeviceManager(adapter_name='hci0')
